@@ -1,9 +1,3 @@
----
-title: "spatial project"
-author: "mypractis"
-date: "2025-12-31"
-output: html_document
----
 #packages
 ```{r setup, include=FALSE}
 library(sf)#handles vector
